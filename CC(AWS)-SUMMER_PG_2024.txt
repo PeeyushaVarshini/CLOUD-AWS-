@@ -1,2 +1,4 @@
-Hello!!
-This is Cloud Computing Class
+Practical class - 01
+the class is about how to link you're files and folders from you're system to github repository where associated people can view ur files and also you're chnages made in file which is easier than sharing files on e-mails.
+also we learnt how to link using git bash which is neccesary 
+ 
